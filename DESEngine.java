@@ -22,7 +22,7 @@ public class DESEngine{
      * initialise a DES cipher.
      *
      * @param encrypting whether or not we are for encryption.
-     * @param params the parameters required to set up the cipher.
+     * @param key the parameters required to set up the cipher.
      * @exception IllegalArgumentException if the params argument is
      * inappropriate.
      */
